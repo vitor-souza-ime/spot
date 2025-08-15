@@ -38,7 +38,6 @@ O algoritmo central utilizado é a função `movement_decomposition`, que realiz
 - **Funções de Movimento**:
   - `stand_up(double duration)`
   - `sit_down(double duration)`
-  - `lie_down(double duration)`
   - `give_paw()`
 
 ---
