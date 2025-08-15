@@ -52,9 +52,3 @@ O algoritmo central utilizado é a função `movement_decomposition`, que realiz
 2. Abra o Webots e carregue o mundo contendo o robô Spot.
 3. Configure o controlador do robô para usar `main.c`.
 4. Execute a simulação e observe o robô realizando os movimentos definidos.
-
----
-
-## Licença
-
-O código é distribuído sob a **Apache License 2.0**, conforme especificado pelo Webots.
