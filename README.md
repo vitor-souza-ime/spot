@@ -18,8 +18,7 @@ O controlador implementa as seguintes primitivas de movimento:
 
 1. **Stand Up (Levantar)**: Transição para postura ereta.
 2. **Sit Down (Sentar)**: Postura intermediária, mantendo estabilidade.
-3. **Lie Down (Deitar)**: Postura de repouso, reduzindo a altura do centro de massa.
-4. **Give Paw (Dar a Pata)**: Movimento oscilatório de uma pata dianteira combinado com estabilização postural.
+3. **Give Paw (Dar a Pata)**: Movimento oscilatório de uma pata dianteira combinado com estabilização postural.
 
 O algoritmo central utilizado é a função `movement_decomposition`, que realiza interpolação linear temporal entre a posição atual das articulações e a posição-alvo desejada, garantindo movimentos suaves e contínuos.
 
