@@ -1,6 +1,6 @@
 # Spot Robot Controller - Webots
 
-Este repositório contém um controlador simples para o robô quadrúpede **Spot** no ambiente de simulação **Webots**. O código implementa movimentos básicos como levantar, sentar, deitar e dar a pata, demonstrando a capacidade de controlar articulações individuais de forma suave e contínua.
+Este repositório contém um controlador para o robô quadrúpede **Spot** no ambiente de simulação **Webots**. O código implementa movimentos como levantar, sentar e dar a pata, demonstrando a capacidade de controlar articulações individuais de forma suave e contínua.
 
 Repositório: [https://github.com/vitor-souza-ime/spot](https://github.com/vitor-souza-ime/spot)
 
